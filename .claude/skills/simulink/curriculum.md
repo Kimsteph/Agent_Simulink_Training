@@ -63,6 +63,16 @@
 - [x] L10.11: PDR vs DDR4 비교 — PDR 추가블록(TargetEmu+MatchedFilter), AXI레지스터맵, FMCW변환포인트
 - [x] L10.12: ZCU_PDR 프로젝트 완전 분석 — FPGA 218블록(depth5), Proc 3 Task, Top 연결맵, 배포 워크플로우
 
+## Level 11: FMCW Radar SoC (PDR→FMCW 변환)
+- [x] L11.1: FMCW Chirp ROM 생성 — 1024-sample linear chirp LUT (fixed-point)
+- [x] L11.2: De-chirp + Range FFT 서브시스템 — HDL 호환
+- [x] L11.3: CPI Buffer + Velocity FFT — 256-chirp accumulation (MATLAB 검증)
+- [x] L11.4: FMCW System Controller FSM — chirp timing
+- [x] L11.5: FPGA 통합 모델 (soc_fmcw_fpga.slx) — 17블록 DUT, ChirpROM+Dechirp+Hann
+- [x] L11.6: Processor 모델 (soc_fmcw_proc.slx) — VelocityFFT MATLAB Function
+- [x] L11.7: Init 스크립트 (soc_fmcw_init.m) — FMCW 파라미터, RFDC NCO, DMA 프레임 계산
+- [x] L11.8: E2E 시뮬레이션 검증 — 2타겟(50m,120m) Range-Doppler Map 감지 PASS
+
 ## Progress Log
 
 | Date | Challenge | Result | Lessons Learned |
