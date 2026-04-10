@@ -6,8 +6,26 @@ slprj/
 *.autosave
 
 # Simulink cache
-*.slxc
 sccprj/
+
+# HDL Coder / Vivado build outputs
+hdl_output/
+hdl_prj*/
+zcu111_template/
+gm_*.slx
+
+# SoC build artifacts
+PDR_Generation/vivado_prj*/
+soc_prj/vivado_prj*/
+SolutionFilesPDR/
+*.bit
+*.dtb
+*.elf
+
+# Large binary caches
+*.mat
+!FilterCoeffs.mat
+dutIntfInfo.mat
 
 # OS
 Thumbs.db
