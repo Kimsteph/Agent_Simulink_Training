@@ -1,0 +1,29 @@
+ext_work.c.o: \
+ C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/ext_work.c \
+ D:/slzs/chapter5/ZCU111/PDR/slprj/ert/_sharedutils/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2025b/simulink/include/rtw_extmode.h \
+ C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/ext_types.h \
+ C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/ext_share.h \
+ C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/updown.h \
+ C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/upsup_public.h \
+ C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/ext_svr.h \
+ C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/ext_svr_transport.h \
+ C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/ext_work.h
+
+D:/slzs/chapter5/ZCU111/PDR/slprj/ert/_sharedutils/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2025b/simulink/include/rtw_extmode.h:
+
+C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/ext_types.h:
+
+C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/ext_share.h:
+
+C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/updown.h:
+
+C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/upsup_public.h:
+
+C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/ext_svr.h:
+
+C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/ext_svr_transport.h:
+
+C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/ext_work.h:

@@ -1,0 +1,38 @@
+ext_svr.c.o: \
+ C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/ext_svr.c \
+ D:/slzs/chapter5/ZCU111/PDR/slprj/ert/_sharedutils/rtwtypes.h \
+ D:/slzs/chapter5/ZCU111/PDR/slprj/ert/_sharedutils/multiword_types.h \
+ D:/slzs/chapter5/ZCU111/PDR/slprj/ert/_sharedutils/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2025b/simulink/include/rtw_extmode.h \
+ C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/ext_types.h \
+ C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/ext_share.h \
+ C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/ext_test.h \
+ C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/ext_svr_transport.h \
+ C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/updown.h \
+ C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/upsup_public.h \
+ C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/updown_util.h \
+ C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/dt_info.h
+
+D:/slzs/chapter5/ZCU111/PDR/slprj/ert/_sharedutils/rtwtypes.h:
+
+D:/slzs/chapter5/ZCU111/PDR/slprj/ert/_sharedutils/multiword_types.h:
+
+D:/slzs/chapter5/ZCU111/PDR/slprj/ert/_sharedutils/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2025b/simulink/include/rtw_extmode.h:
+
+C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/ext_types.h:
+
+C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/ext_share.h:
+
+C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/ext_test.h:
+
+C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/ext_svr_transport.h:
+
+C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/updown.h:
+
+C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/upsup_public.h:
+
+C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/ext_mode/common/updown_util.h:
+
+C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/dt_info.h:

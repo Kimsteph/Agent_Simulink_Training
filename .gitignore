@@ -11,21 +11,29 @@ sccprj/
 # HDL Coder / Vivado build outputs
 hdl_output/
 hdl_prj*/
+hdlsrc/
 zcu111_template/
 gm_*.slx
+gs_*.m
 
 # SoC build artifacts
-PDR_Generation/vivado_prj*/
-soc_prj/vivado_prj*/
+PDR_Generation/
+soc_prj/
 SolutionFilesPDR/
+soc_range_doppler_top_profiling/
 *.bit
 *.dtb
 *.elf
+*.prj
 
 # Large binary caches
 *.mat
 !FilterCoeffs.mat
 dutIntfInfo.mat
+
+# Temp/log files
+dtrx.log
+*.original
 
 # OS
 Thumbs.db

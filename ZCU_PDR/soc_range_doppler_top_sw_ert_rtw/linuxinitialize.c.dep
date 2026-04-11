@@ -1,0 +1,11 @@
+linuxinitialize.c.o: \
+ C:/PROGRA~1/MATLAB/R2025b/toolbox/target/codertarget/rtos/src/linuxinitialize.c \
+ C:/PROGRA~1/MATLAB/R2025b/toolbox/target/codertarget/rtos/inc/linuxinitialize.h \
+ D:/slzs/chapter5/ZCU111/PDR/slprj/ert/_sharedutils/rtwtypes.h \
+ D:/slzs/chapter5/ZCU111/PDR/soc_range_doppler_top_sw_ert_rtw/MW_custom_RTOS_header.h
+
+C:/PROGRA~1/MATLAB/R2025b/toolbox/target/codertarget/rtos/inc/linuxinitialize.h:
+
+D:/slzs/chapter5/ZCU111/PDR/slprj/ert/_sharedutils/rtwtypes.h:
+
+D:/slzs/chapter5/ZCU111/PDR/soc_range_doppler_top_sw_ert_rtw/MW_custom_RTOS_header.h:

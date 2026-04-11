@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Category Location="FileClassCategory">
+    <Info DataType="None" Name="Classification" ReadOnly="1" SingleValued="1"/>
+    <Label Location="artifact">
+        <Info Name="Artifact" ReadOnly="INHERITED"/>
+    </Label>
+    <Label Location="convenience">
+        <Info Name="Convenience" ReadOnly="INHERITED"/>
+    </Label>
+    <Label Location="derived">
+        <Info Name="Derived" ReadOnly="INHERITED"/>
+    </Label>
+    <Label Location="design">
+        <Info Name="Design" ReadOnly="INHERITED"/>
+    </Label>
+    <Label Location="none">
+        <Info Name="None" ReadOnly="INHERITED"/>
+    </Label>
+    <Label Location="other">
+        <Info Name="Other" ReadOnly="INHERITED"/>
+    </Label>
+    <Label Location="test">
+        <Info Name="Test" ReadOnly="INHERITED"/>
+    </Label>
+</Category>
